@@ -11,7 +11,7 @@ You'll need the following dependencies:
 Copy the theme into plymouth themes.
 
 ```bash
-$ sudo cp -r ./pop-basic /usr/share/plymouth/themes/arch-basic/
+$ sudo cp -r arch-basic /usr/share/plymouth/themes/arch-basic/
 ```
 
 then set the theme as default and build a new initramfs to apply the changes.
