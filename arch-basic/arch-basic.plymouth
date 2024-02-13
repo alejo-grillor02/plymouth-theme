@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=Pop Basic
-Description=Re-Write of Pop!_OS decryption screen using two-step rather than plymouth script.
+Name=Arch Basic
+Description=Plymouth theme for Archlinux, based on Pop!_OS.
 ModuleName=two-step
 
 [two-step]
-Font=Fira Sans Regular 11
-TitleFont=Fira Sans Regular 11
-ImageDir=/usr/share/plymouth/themes/pop-basic
+Font=Cantarell 11
+TitleFont=Cantarell 11
+ImageDir=/usr/share/plymouth/themes/arch-basic
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.5
 TitleHorizontalAlignment=.5
